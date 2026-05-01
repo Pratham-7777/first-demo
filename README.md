@@ -1,3 +1,3 @@
 # first-demo
 This is my first github repository
-Author- Pratham bhandari
+Author- Pratham Bhandari
